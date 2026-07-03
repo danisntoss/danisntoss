@@ -1,68 +1,50 @@
-# 👋 Hi, I'm Dani!
+### Daniel Santos
+`software engineer` · Madrid, España
 
-I'm a **Software Engineering student** who enjoys learning new things and working on projects.
+> Recién graduado en Ing. de Software por la URJC. Ahora backend en **MAPFRE** (Spring Boot, PL/SQL, MongoDB) y proyectos personales en React + TypeScript.
 
-* 🌍 I'm based in Madrid, Spain
-* 🎨 Lately, I've been designing vinyl stickers
-* 🖥️ See my website at [Santos Studio](https://santos-studio.es)
-* ✉️  You can contact me at dani@santos-studio.es
-* 🧠 I'm focusing on UI and Astro
+---
 
-# 📚 Skills
+#### Now
 
-## Web
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" width="36" height="36" alt="Astro" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-</p>
+- 💼 IT Intern en **MAPFRE** — backend del proyecto REEF Vida + automatización interna
+- 🎓 Graduado en **Ing. de Software** por la URJC (Madrid, 2022 — 2026 · nota media 8,1)
+- 🕹️ **[AlgoArcade](https://alg0arcade.vercel.app)** publicado — TFG: plataforma para aprender algoritmia con minijuegos (Canvas API + Firebase)
 
-## Languages
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Bash_Logo_White.svg" width="36" height="36" alt="Bash" /></a>
-</p>
+#### Focus
 
-## Databases
-<p align="left">
-<a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle SQL" /></a>
-</p>
+`Full-stack web` · `AI tooling` · `ESP32 & hardware`
 
-## Operating Systems
-<p align="left">
-<a href="https://www.apple.com/macos/" target="_blank" rel="noreferrer"><img src="./assets/finder.svg" width="36" height="36" alt="macOS" /></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-<a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="36" height="36" alt="Windows" /></a>
-</p>
+#### Stack
 
-## Tools
-<p align="left">
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="36" height="36" alt="Visual Studio Code" /></a>
-<a href="https://www.notion.so/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="36" height="36" alt="Notion" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://trello.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" width="36" height="36" alt="Trello" /></a>
-<a href="https://miro.com/" target="_blank" rel="noreferrer"><img src="./assets/miro.svg" width="36" height="36" alt="Miro" /></a>
-<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="36" height="36" alt="Jira" /></a>
-<a href="https://staruml.io/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/7642181?s=200&v=4" width="36" height="36" alt="StarUML" /></a>
-<a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="36" height="36" alt="Vercel" /></a>
-<a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" width="36" height="36" alt="JSON" /></a>
-<a href="https://www.rstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" width="36" height="36" alt="RStudio" /></a>
-<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="36" height="36" alt="PyCharm" /></a>
-<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="36" height="36" alt="IntelliJ IDEA" /></a>
-<a href="https://netbeans.apache.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" width="36" height="36" alt="NetBeans" /></a>
-</p>
+![TypeScript](https://img.shields.io/badge/TypeScript-050506?style=flat-square&logo=typescript&logoColor=d4f56b)
+![React](https://img.shields.io/badge/React-050506?style=flat-square&logo=react&logoColor=d4f56b)
+![Angular](https://img.shields.io/badge/Angular-050506?style=flat-square&logo=angular&logoColor=d4f56b)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-050506?style=flat-square&logo=springboot&logoColor=d4f56b)
+![Java](https://img.shields.io/badge/Java-050506?style=flat-square&logo=openjdk&logoColor=d4f56b)
+![Node.js](https://img.shields.io/badge/Node.js-050506?style=flat-square&logo=nodedotjs&logoColor=d4f56b)
+![Docker](https://img.shields.io/badge/Docker-050506?style=flat-square&logo=docker&logoColor=d4f56b)
+![Astro](https://img.shields.io/badge/Astro-050506?style=flat-square&logo=astro&logoColor=d4f56b)
 
-# 📫 Contact Me
+---
 
-<p align="left">
-<a href="mailto:dani@santos-studio.es" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" width="36" height="36" alt="Email" /></a>
-<a href="https://www.instagram.com/danisntoss_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="36" height="36" alt="Instagram" /></a>
-<a href="https://www.linkedin.com/in/danisntoss" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" alt="LinkedIn" /></a>
-</p>
+#### GitHub
+
+<a href="https://github.com/danisntoss">
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" />
+</a>
+
+<a href="https://github.com/danisntoss">
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" height="200" />
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" height="200" />
+</a>
+<a href="https://github.com/danisntoss">
+  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" height="200" />
+  <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" height="200" />
+</a>
+
+---
+
+#### Elsewhere
+
+[Portfolio](https://danisantos.vercel.app) · [santos-studio.es](https://santos-studio.es) · [LinkedIn](https://linkedin.com/in/danisntoss) · [dani@santos-studio.es](mailto:dani@santos-studio.es)
